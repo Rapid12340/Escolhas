@@ -1,0 +1,20 @@
+﻿<Page x:Class="Projeto_P2.Page3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Projeto_P2"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page3">
+
+    <Grid>
+        <Button Content="13" HorizontalAlignment="Left" Margin="100,59,0,0" VerticalAlignment="Top" Width="126" Height="98" FontSize="18" Background="#FF00FF17" Click="Button_Click"/>
+        <Button Content="Roxo" HorizontalAlignment="Left" Margin="549,59,0,0" VerticalAlignment="Top" Width="126" Height="98" FontFamily="Arial" FontSize="18" Background="#FFDC00FF" Click="Button_Click_1"/>
+        <Button Content="14" HorizontalAlignment="Left" Margin="100,264,0,0" VerticalAlignment="Top" Width="126" Height="98" FontFamily="Arial" FontSize="18" Background="#FF2B6EFF" Click="Button_Click_2"/>
+        <Button Content="4" HorizontalAlignment="Left" Margin="549,264,0,0" VerticalAlignment="Top" Width="126" Height="98" FontFamily="Arial" FontSize="18" Background="#FF802200" IsDefault="True" Click="Button_Click_3"/>
+        <Label Content="Pergunta 2: Quanto é 5+7?" HorizontalAlignment="Left" Margin="259,216,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Arial"/>
+        <Image Margin="259,35,275,239" Source="/images/M127_Math-EX.jpg" Stretch="Fill"/>
+
+    </Grid>
+</Page>

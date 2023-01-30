@@ -1,0 +1,86 @@
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\bin\Debug\Projeto P2.exe.config
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\bin\Debug\Projeto P2.exe
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\bin\Debug\Projeto P2.pdb
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Projeto P2.csprojAssemblyReference.cache
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\MainWindow.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\App.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Projeto P2_MarkupCompile.cache
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Projeto P2_MarkupCompile.lref
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\MainWindow.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Projeto P2.g.resources
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Projeto_P2.Properties.Resources.resources
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Projeto P2.csproj.GenerateResource.cache
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Projeto P2.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Projeto P2.exe
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Projeto P2.pdb
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Page1.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Page1.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Boa 2.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Boa.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Congrats.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Counter 1.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Counter 2.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Counter 3.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\DeathMode.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Eh 1.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Eh 2.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Page2.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Page3.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Page4.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Perto 1.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Perto 2.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Boa 2.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Boa.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Congrats.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Counter 1.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Counter 2.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Counter 3.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\DeathMode.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Eh 1.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Eh 2.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Page2.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Page3.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Page4.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Perto 1.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\Projeto P2\Projeto P2\obj\Debug\Perto 2.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\bin\Debug\Projeto P2.exe.config
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\bin\Debug\Projeto P2.exe
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\bin\Debug\Projeto P2.pdb
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Projeto P2.csproj.AssemblyReference.cache
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Boa 2.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Boa.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Congrats.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Counter 1.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Counter 2.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Eh 1.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Eh 2.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\MainWindow.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Page1.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Page2.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Page3.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Page4.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Perto 1.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Perto 2.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\App.g.cs
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Projeto P2_MarkupCompile.cache
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Projeto P2_MarkupCompile.lref
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Boa 2.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Boa.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Congrats.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Counter 1.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Counter 2.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Eh 1.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Eh 2.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\MainWindow.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Page1.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Page2.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Page3.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Page4.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Perto 1.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Perto 2.baml
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Projeto P2.g.resources
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Projeto_P2.Properties.Resources.resources
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Projeto P2.csproj.GenerateResource.cache
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Projeto P2.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Projeto P2.exe
+C:\Users\João\Documents\Faculdade\Projetos\segundo semestre primeiro ano\ProgII\Projeto P2 (avaliar)\Projeto P2\obj\Debug\Projeto P2.pdb

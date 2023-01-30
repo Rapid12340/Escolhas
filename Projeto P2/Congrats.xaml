@@ -1,0 +1,16 @@
+﻿<Page x:Class="Projeto_P2.Congrats"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Projeto_P2"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Congrats">
+
+    <Grid>
+        <Image Margin="219,40,228,232" Source="/images/Best-Marketable-Diploma-courses-to-study-in-Kenya.jpg" Stretch="Fill"/>
+        <Button Content="Restart" HorizontalAlignment="Left" Margin="268,365,0,0" VerticalAlignment="Top" Width="250" Height="59" FontFamily="Arial" FontSize="36" Click="Button_Click"/>
+
+    </Grid>
+</Page>
